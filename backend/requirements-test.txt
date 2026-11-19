@@ -1,0 +1,4 @@
+# Extra packages for running the Phase B MongoDB tests (no MongoDB server needed)
+-r requirements.txt
+pytest>=8.0
+mongomock>=4.1
